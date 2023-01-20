@@ -1,2 +1,7 @@
+!data/mock
 data/real
+# executable build artifacts
 main
+day[0-9]*p[0-9]*
+day[0-9]*
+!day[0-9]*.c[c]
