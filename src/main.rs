@@ -6,4 +6,5 @@ fn main() {
     println!("===================\n");
 
     day1::solve();
+    day2::solve();
 }
